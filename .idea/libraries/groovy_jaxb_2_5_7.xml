@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="groovy-jaxb-2.5.7">
+    <CLASSES>
+      <root url="jar://C:/tools/groovy-2.5.7/lib/groovy-jaxb-2.5.7.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
